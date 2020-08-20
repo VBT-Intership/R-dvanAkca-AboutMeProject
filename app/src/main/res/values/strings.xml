@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Ridvan Akca</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">
+     \n\n   orem ipsum dolor sit amet,
+     \n\n  consectetur adipiscing elit. Sed facilisis, enim eu blandit molestie, arcu velit
+       faucibus sem, vitae semper purus enim in urna. Maecenas fermentum ultricies velit quis
+     \n\n  porta neque lobortis et. Sed sed dolor felis. Maecenas fermentum est at
+       velit ullamcorper, at lobortis urna vehicula. Curabitur tincidunt varius
+      turpis, eu luctus lectus vestibulum quis. Phasellus ac erat ac mauris dictum
+       ornare eu id nibh. Nulla vitae faucibus augue
+         velit ullamcorper, at lobortis urna vehicula. Curabitur tincidunt varius
+      turpis, eu luctus lectus vestibulum quis. Phasellus ac erat ac mauris dictum
+       ornare eu id nibh. Nulla vitae faucibus augue
+         velit ullamcorper, at lobortis urna vehicula. Curabitur tincidunt varius
+      turpis, eu luctus lectus vestibulum quis. Phasellus ac erat ac mauris dictum
+       ornare eu id nibh. Nulla vitae faucibus augue
+    </string>
+
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+
+</resources>
